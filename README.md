@@ -8,7 +8,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@_deyvisonborges-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/_deyvisonborges/)](https://www.instagram.com/_deyvisonborges/)
 ----
 
-Projetos em que atuei
+#### Projetos em que atuei
 <div style="flex-direction: row; display: flex; width: 600px; height: 50px; align-items: center; justify-content: center;">
   <img src="https://cantodochef.com.br/static/version1594925555/frontend/Venustheme/cantodochef_theme/pt_BR/images/logo.png" width="150"/> 
   
