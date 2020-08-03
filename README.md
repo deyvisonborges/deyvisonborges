@@ -13,10 +13,10 @@
   <img src="https://imgur.com/JoIDsqI.png" />
 </div>
 
-  📌 Skills: Javascript, Nodejs, Vue, Reat, React Native, Next.js, Nuxt.js, MongoDB, Postgres, Graphql, REST
-  💙 Apaixonado por entregar o melhor
-  📚 Curso MBA em  Engenharia e Arquitetura de Software
-  😄 Meus hobbies envolvem música e desenho
+  📌 Skills: Javascript, Nodejs, Vue, Reat, React Native, Next.js, Nuxt.js, MongoDB, Postgres, Graphql, REST <br>
+  💙 Apaixonado por entregar o melhor <br>
+  📚 Curso MBA em  Engenharia e Arquitetura de Software <br>
+  😄 Meus hobbies envolvem música e desenho <br>
 
 
 
