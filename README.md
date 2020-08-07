@@ -15,8 +15,8 @@
 
   📌 Skills: Javascript, Nodejs, Vue, Reat, React Native, Next.js, Nuxt.js, MongoDB, Postgres, Graphql, REST <br>
   💙 Apaixonado por entregar o melhor <br>
-  📚 Graduado em <b>"Gestão em Tecnologia da Informação"</b>
-  📚 Pretendendo cursar <b>"Engenharia de Software" </b>
+  📚 Graduado em <b>"Gestão em Tecnologia da Informação"</b>  <br>
+  📚 Pretendendo cursar <b>"Engenharia de Software" </b>  <br>
   😄 Meus hobbies envolvem música e desenho <br>
 
 
