@@ -8,16 +8,19 @@
 [![Instagram Badge](https://img.shields.io/badge/-@_deyvisonborges-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/_deyvisonborges/)](https://www.instagram.com/_deyvisonborges/)
 ----
 
-#### Projetos em que atuei
-<div style="">
-  <img src="https://imgur.com/JoIDsqI.png" />
-</div>
 
   📌 Skills: Javascript, Nodejs, Vue, Reat, React Native, Next.js, Nuxt.js, MongoDB, Postgres, Graphql, REST <br>
   💙 Apaixonado por entregar o melhor <br>
   📚 Graduado em <b>"Gestão em Tecnologia da Informação"</b>  <br>
   📚 Pretendendo cursar <b>"Engenharia de Software" </b>  <br>
   😄 Meus hobbies envolvem música e desenho <br>
+  
+  `Alguns projetos são privados`
+
+#### Projetos em que atuei
+<div style="">
+  <img src="https://imgur.com/JoIDsqI.png" />
+</div>
 
 
 
