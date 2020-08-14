@@ -8,6 +8,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@_deyvisonborges-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/_deyvisonborges/)](https://www.instagram.com/_deyvisonborges/)
 ----
 
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=deeborges&show_icons=true">
 
   📌 Skills: Javascript, Nodejs, Vue, Reat, React Native, Next.js, Nuxt.js, MongoDB, Postgres, Graphql, REST <br>
   💙 Apaixonado por entregar o melhor <br>
