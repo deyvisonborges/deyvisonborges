@@ -7,12 +7,18 @@
   <summary>
     📚 <b> Graduação </b> 
   </summary>
-  <span><strong>Gestão em Tecnologia da Informação</strong></span> <br>
-  <span>Faculdade ISL Wyden  <strong>2017 - 2020</strong></span><br>
+  <span>
+    <strong>Gestão em Tecnologia da Informação</strong>
+  </span> <br>
+  <span>
+    Faculdade ISL Wyden  <strong>2017 - 2020</strong>
+  </span> <br>
   <span>
     Um bom profissional,além de saber utilizar as ferrametas,precisa saber gerir e gerar valor.
+  </span> <br>
+  <span>
+    📚 Pretendendo cursar <b>Engenharia de Software</b> 
   </span>
-  <span>📚 Pretendendo cursar <b>Engenharia de Software</b></span>
 </details>
 
 
@@ -22,11 +28,12 @@
   </summary>
   
   <details>
-      <summary><b>👇(clique) 2020</b></summary>
+      <summary><b>👇 2020</b></summary>
       <div class="job">
         <a href=""><b>Pulse</b></a>
-        <p>Equipe (size): ~ 25 pessoas</p>
-        <span>Desenvolvedor Mobile Fullstack </span>
+        <p>Equipe (size): ~ 25 pessoas <br>
+          <span>Desenvolvedor Mobile Fullstack </span>
+        </p> 
       </div>
       <div class="job">
         <a href=""><b>Pulse</b></a>
