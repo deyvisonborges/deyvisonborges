@@ -20,8 +20,8 @@
   <summary>
     👨🏻‍💻<b> Experiências </b>
   </summary>
-  <div style="padding: 10px">
-    <details>
+  
+  <details>
       <summary><b>👇(clique) 2020</b></summary>
       <div class="job">
         <a href=""><b>Pulse</b></a>
@@ -34,6 +34,7 @@
         <span>Desenvolvedor Frontend</span>
       </div>
      </details>
+  <center style="padding: 10px;">
      <details>
        <summary><b>👇(clique) 2019 - 2018</b></summary>
         <div class="job">
@@ -41,14 +42,13 @@
           <p>Equipe (size): ~ ... pessoas</p>
           <span>Estagiráio em Análise de Negócios e Desenvolvimento de Sistemas</span>
         </div>
-
         <div class="job">
           <a href=""><b>Yázigi</b></a>
           <p>Equipe (size): ~ 60 pessoas</p>
           <span>Estagiráio de T.I.</span>
-          </div>
+        </div>
      </details>
-  </div>
+  </center>
 </details>
 
 📊 **Meus níveis de conhecimento**
