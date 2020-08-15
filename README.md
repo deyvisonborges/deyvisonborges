@@ -46,26 +46,30 @@
      <summary><b>👇(clique) 2019 - 2018</b></summary>
       <div class="job">
         <a href=""><b>Pulse - Todos os módulos da empresa</b></a>
-        <p>Equipe (size): +100 pessoas </p>
-        <span><strong>Estagiário em Análise de Negócios e Desenvolvimento de Sistemas</strong></span>
+        <p>Equipe (size): +100 pessoas 
+          <span><strong>Estagiário em Análise de Negócios e Desenvolvimento de Sistemas</strong></span>
+        </p>
       </div>
       <div class="job">
         <a href=""><b>Yázigi</b></a>
-        <p>Equipe (size): ~ 60 pessoas</p>
-        <span><strong>Estagiráio de T.I.</strong></span>
+        <p>Equipe (size): ~ 60 pessoas
+          <span><strong>Estagiráio de T.I.</strong></span>
+        </p>
       </div>
    </details>
    <details>
      <summary><b>👇2017</b></summary>
       <div class="job">
         <a href=""><b>Vida Tech</b></a>
-        <p>Equipe (size): 12 pessoas </p>
-        <span><strong>Fundador e Coordenador do Projeto</strong></span>
+        <p>Equipe (size): 12 pessoas
+          <span><strong>Fundador e Coordenador do Projeto</strong></span>
+        </p>
       </div>
       <div class="job">
         <a href=""><b>AME - Grupo de Apoio à Adoção</b></a>
-        <p>Equipe (size): + 100 pessoas </p>
-        <span><strong>Professor de Informática Voluntário</strong></span>
+        <p>Equipe (size): + 100 pessoas
+          <span><strong>Professor de Informática Voluntário</strong></span>
+        </p>
       </div>
    </details>
 </details>
