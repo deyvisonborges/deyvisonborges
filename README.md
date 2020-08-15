@@ -9,13 +9,14 @@
 
 ----
 
-👨🏻‍💻 **Graduação**
+📚 **Graduação**
 <details>
-  <summary>Gestão em Tecnologia da Informação</b></summary>
+  Gestão em Tecnologia da Informação
   <span>Faculdade ISL Wyden  <strong>2017 - 2020</strong></span>
   <p>
     Um bom profissional,além de saber utilizar as ferrametas,precisa saber gerir e gerar valor.
   </p>
+  `📚 Pretendendo cursar <b>Engenharia de Software</b>`
 </details>
 
 👨🏻‍💻 **Experiências**
@@ -59,3 +60,4 @@ Gestão              ███████████████████�
 Engenharia          ████████████████░░░░░░░░░
 Arquitetura         ████████████████░░░░░░░░░
 ```
+💙 **Apaixonado por entregar o melhor**
