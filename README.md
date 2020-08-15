@@ -9,15 +9,14 @@
 
 ----
 
-📌 Skills: Javascript, Nodejs, Vue, Reat, React Native, Next.js, Nuxt.js, MongoDB, Postgres, Graphql, REST <br>
-💙 Apaixonado por entregar o melhor <br>
-📚 Graduado em <b>"Gestão em Tecnologia da Informação"</b>  <br>
-📚 Pretendendo cursar <b>"Engenharia de Software" </b>  <br>
-😄 Meus hobbies envolvem música e desenho <br>
-  
-  `Alguns projetos são privados`
-
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=deeborges&show_icons=true">
+👨🏻‍💻 **Graduação**
+<details>
+  <summary>Gestão em Tecnologia da Informação</b></summary>
+  <span>Faculdade ISL Wyden  <strong>2017 - 2020</strong></span>
+  <p>
+    Um bom profissional,além de saber utilizar as ferrametas,precisa saber gerir e gerar valor.
+  </p>
+</details>
 
 👨🏻‍💻 **Experiências**
 <details>
