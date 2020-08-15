@@ -30,32 +30,44 @@
   <details>
       <summary><b>👇 2020</b></summary>
       <div class="job">
-        <a href=""><b>Pulse</b></a>
+        <a href=""><b>Pulse - Módulo CRM - Mateus App</b></a>
         <p>Equipe (size): ~ 25 pessoas <br>
-          <span>Desenvolvedor Mobile Fullstack </span>
+          <span> <strong>Desenvolvedor Mobile Fullstack</strong> </span>
         </p> 
       </div>
       <div class="job">
-        <a href=""><b>Pulse</b></a>
+        <a href=""><b>Pulse - Módulo E-commerce - Canto do Chef</b></a>
         <p>Equipe (size): ~ 5 pessoas</p>
-        <span>Desenvolvedor Frontend</span>
+        <span>
+        <strong>Desenvolvedor Frontend</strong></span>
       </div>
      </details>
-  <center style="padding: 10px;">
-     <details>
-       <summary><b>👇(clique) 2019 - 2018</b></summary>
-        <div class="job">
-          <a href=""><b>Pulse</b></a>
-          <p>Equipe (size): ~ ... pessoas</p>
-          <span>Estagiráio em Análise de Negócios e Desenvolvimento de Sistemas</span>
-        </div>
-        <div class="job">
-          <a href=""><b>Yázigi</b></a>
-          <p>Equipe (size): ~ 60 pessoas</p>
-          <span>Estagiráio de T.I.</span>
-        </div>
-     </details>
-  </center>
+  <details>
+     <summary><b>👇(clique) 2019 - 2018</b></summary>
+      <div class="job">
+        <a href=""><b>Pulse - Todos os módulos da empresa</b></a>
+        <p>Equipe (size): +100 pessoas </p>
+        <span><strong>Estagiário em Análise de Negócios e Desenvolvimento de Sistemas</strong></span>
+      </div>
+      <div class="job">
+        <a href=""><b>Yázigi</b></a>
+        <p>Equipe (size): ~ 60 pessoas</p>
+        <span><strong>Estagiráio de T.I.</strong></span>
+      </div>
+   </details>
+   <details>
+     <summary><b>👇2017</b></summary>
+      <div class="job">
+        <a href=""><b>Vida Tech</b></a>
+        <p>Equipe (size): 12 pessoas </p>
+        <span><strong>Fundador e Coordenador do Projeto</strong></span>
+      </div>
+      <div class="job">
+        <a href=""><b>AME - Grupo de Apoio à Adoção</b></a>
+        <p>Equipe (size): + 100 pessoas </p>
+        <span><strong>Professor de Informática Voluntário</strong></span>
+      </div>
+   </details>
 </details>
 
 📊 **Meus níveis de conhecimento**
