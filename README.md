@@ -9,42 +9,51 @@
 
 ----
 
-📚 **Graduação**
 <details>
-  Gestão em Tecnologia da Informação
-  <span>Faculdade ISL Wyden  <strong>2017 - 2020</strong></span>
-  <p>
+  <summary>
+    📚 <b> Graduação </b> 
+  </summary>
+  <span><strong>Gestão em Tecnologia da Informação</strong></span> <br>
+  <span>Faculdade ISL Wyden  <strong>2017 - 2020</strong></span><br>
+  <span>
     Um bom profissional,além de saber utilizar as ferrametas,precisa saber gerir e gerar valor.
-  </p>
-  `📚 Pretendendo cursar <b>Engenharia de Software</b>`
+  </span>
+  <span>📚 Pretendendo cursar <b>Engenharia de Software</b></span>
 </details>
 
-👨🏻‍💻 **Experiências**
+
 <details>
-  <summary><b>👇(clique) 2020</b></summary>
-  <div class="job">
-    <a href=""><b>Pulse</b></a>
-    <p>Equipe (size): ~ 25 pessoas</p>
-    <span>Desenvolvedor Mobile Fullstack </span>
-  </div>
-  <div class="job">
-    <a href=""><b>Pulse</b></a>
-    <p>Equipe (size): ~ 5 pessoas</p>
-    <span>Desenvolvedor Frontend</span>
-  </div>
-</details>
-<details>
-  <summary><b>👇(clique) 2019 - 2018</b></summary>
-  <div class="job">
-    <a href=""><b>Pulse</b></a>
-    <p>Equipe (size): ~ ... pessoas</p>
-    <span>Estagiráio em Análise de Negócios e Desenvolvimento de Sistemas</span>
-  </div>
-  
-  <div class="job">
-    <a href=""><b>Yázigi</b></a>
-    <p>Equipe (size): ~ 60 pessoas</p>
-    <span>Estagiráio de T.I.</span>
+  <summary>
+    👨🏻‍💻<b> Experiências </b>
+  </summary>
+  <div style="padding: 10px">
+    <details>
+      <summary><b>👇(clique) 2020</b></summary>
+      <div class="job">
+        <a href=""><b>Pulse</b></a>
+        <p>Equipe (size): ~ 25 pessoas</p>
+        <span>Desenvolvedor Mobile Fullstack </span>
+      </div>
+      <div class="job">
+        <a href=""><b>Pulse</b></a>
+        <p>Equipe (size): ~ 5 pessoas</p>
+        <span>Desenvolvedor Frontend</span>
+      </div>
+     </details>
+     <details>
+       <summary><b>👇(clique) 2019 - 2018</b></summary>
+        <div class="job">
+          <a href=""><b>Pulse</b></a>
+          <p>Equipe (size): ~ ... pessoas</p>
+          <span>Estagiráio em Análise de Negócios e Desenvolvimento de Sistemas</span>
+        </div>
+
+        <div class="job">
+          <a href=""><b>Yázigi</b></a>
+          <p>Equipe (size): ~ 60 pessoas</p>
+          <span>Estagiráio de T.I.</span>
+          </div>
+     </details>
   </div>
 </details>
 
