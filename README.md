@@ -9,7 +9,6 @@
 
 ----
 
-
 📌 Skills: Javascript, Nodejs, Vue, Reat, React Native, Next.js, Nuxt.js, MongoDB, Postgres, Graphql, REST <br>
 💙 Apaixonado por entregar o melhor <br>
 📚 Graduado em <b>"Gestão em Tecnologia da Informação"</b>  <br>
@@ -20,18 +19,33 @@
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=deeborges&show_icons=true">
 
-<p>Experiências</p>
+👨🏻‍💻 **Experiências**
 <details>
   <summary><b>👇(clique) 2020</b></summary>
-  
   <div class="job">
     <a href=""><b>Pulse</b></a>
     <p>Equipe (size): ~ 25 pessoas</p>
-    <div>
-      <h4>Responsbilidades</h4>
-    </div>
+    <span>Desenvolvedor Mobile Fullstack </span>
+  </div>
+  <div class="job">
+    <a href=""><b>Pulse</b></a>
+    <p>Equipe (size): ~ 5 pessoas</p>
+    <span>Desenvolvedor Frontend</span>
+  </div>
+</details>
+<details>
+  <summary><b>👇(clique) 2019 - 2018</b></summary>
+  <div class="job">
+    <a href=""><b>Pulse</b></a>
+    <p>Equipe (size): ~ ... pessoas</p>
+    <span>Estagiráio em Análise de Negócios e Desenvolvimento de Sistemas</span>
   </div>
   
+  <div class="job">
+    <a href=""><b>Yázigi</b></a>
+    <p>Equipe (size): ~ 60 pessoas</p>
+    <span>Estagiráio de T.I.</span>
+  </div>
 </details>
 
 📊 **Meus níveis de conhecimento**
@@ -46,8 +60,3 @@ Gestão              ███████████████████�
 Engenharia          ████████████████░░░░░░░░░
 Arquitetura         ████████████████░░░░░░░░░
 ```
-
-#### Projetos em que atuei
-<div style="">
-  <img src="https://imgur.com/JoIDsqI.png" />
-</div>
