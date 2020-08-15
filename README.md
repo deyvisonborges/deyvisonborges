@@ -9,6 +9,15 @@
 
 ----
 
+
+📌 Skills: Javascript, Nodejs, Vue, Reat, React Native, Next.js, Nuxt.js, MongoDB, Postgres, Graphql, REST <br>
+💙 Apaixonado por entregar o melhor <br>
+📚 Graduado em <b>"Gestão em Tecnologia da Informação"</b>  <br>
+📚 Pretendendo cursar <b>"Engenharia de Software" </b>  <br>
+😄 Meus hobbies envolvem música e desenho <br>
+  
+  `Alguns projetos são privados`
+
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=deeborges&show_icons=true">
 
 <p>Experiências</p>
@@ -25,19 +34,20 @@
   
 </details>
 
-
-  📌 Skills: Javascript, Nodejs, Vue, Reat, React Native, Next.js, Nuxt.js, MongoDB, Postgres, Graphql, REST <br>
-  💙 Apaixonado por entregar o melhor <br>
-  📚 Graduado em <b>"Gestão em Tecnologia da Informação"</b>  <br>
-  📚 Pretendendo cursar <b>"Engenharia de Software" </b>  <br>
-  😄 Meus hobbies envolvem música e desenho <br>
-  
-  `Alguns projetos são privados`
+📊 **Meus níveis de conhecimento**
+```text
+Frontend            █████████████████████████ 
+Backend             ██████████████████████░░░ 
+Mobile (Android)    ███████████████████░░░░░░ 
+Database            ███████████████████░░░░░░ 
+DevOps              ██████░░░░░░░░░░░░░░░░░░░
+Design              █████████████████████████
+Gestão              ██████████████████████░░░
+Engenharia          ████████████████░░░░░░░░░
+Arquitetura         ████████████████░░░░░░░░░
+```
 
 #### Projetos em que atuei
 <div style="">
   <img src="https://imgur.com/JoIDsqI.png" />
 </div>
-
-
-
