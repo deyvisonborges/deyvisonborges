@@ -1,6 +1,8 @@
 
 
-### Eai 👋, Deyvi aqui.
+<div> 
+  <img src="https://imgur.com/dSdYWOz.png" alt="Deyvison Borges" />
+ </div>
 ----
 
 📊 **Meus níveis de conhecimento**
