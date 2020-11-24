@@ -26,4 +26,4 @@ Arquitetura         ████████████████████
 
 💙 **Apaixonado por entregar o melhor**
 
-https://visitor-badge.glitch.me/badge?page_id=deeborges.readme
+![Visitantes](https://visitor-badge.glitch.me/badge?page_id=deeborges.readme)
