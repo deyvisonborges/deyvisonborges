@@ -1,8 +1,6 @@
 
 
-<div> 
-  <img src="https://imgur.com/dSdYWOz.png" alt="Deyvison Borges" />
- </div>
+![Alt text](https://i.imgur.com/wx7cfd4.gif)
 ----
 
 📊 **Meus níveis de conhecimento**
