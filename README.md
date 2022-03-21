@@ -2,7 +2,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-deyvisonborges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deyvisonborges/)](https://www.linkedin.com/in/deyvisonborges/)
 
 Libs
-https://www.npmjs.com/package/@colibri-ui
+https://www.npmjs.com/package/@colibri-ui/tokens
+https://www.npmjs.com/package/@colibri-ui/typings
+https://www.npmjs.com/package/@colibri-ui/themes
 
 💙 **Apaixonado por entregar o melhor**
 
