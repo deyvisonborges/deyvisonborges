@@ -10,7 +10,7 @@ https://www.npmjs.com/package/@colibri-ui/tokens <br>
 📦 Torne qualquer componente simples em componente declarativo. 😁 <br>
 https://www.npmjs.com/package/@colibri-ui/typings <br>
 
-📦 Crie temas de forma fácil
+📦 Crie temas de forma fácil <br>
 https://www.npmjs.com/package/@colibri-ui/themes
 
 
