@@ -1,7 +1,8 @@
 [![Github Badge](https://img.shields.io/badge/-deyvisonborges-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rebeccamanzi)](https://github.com/deyvisonborges)
 [![Linkedin Badge](https://img.shields.io/badge/-deyvisonborges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deyvisonborges/)](https://www.linkedin.com/in/deyvisonborges/)
 
-😁 Muitos projetos privados.
+😁 Muitos projetos privados (200++). <br>
+
 Algumas libs públicas 🤩 <br>
 Aprimorei em projetos em produção mas não atualizei no npm! <br>
 
