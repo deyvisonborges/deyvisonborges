@@ -6,7 +6,17 @@ I have a very flexible profile, but currently, I have focused my time on the fol
 
 > Working in progress
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nestjs,nextjs,java,spring,dotnet,cs,gradle,maven,kotlin,swift,aws,azure,postgres,rabbitmq,kafka)](https://skillicons.dev)
+### Frontend Skills
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,javascript,typescript,tailwind,css,less,sass,redux,vite,vitest,webpack,npm,yarn,figma)](https://skillicons.dev)
+
+### Backend Skills 
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,prisma,java,spring,hibernate,dotnet,cs,gradle,maven,postgres,mysql,rabbitmq,kafka,graphql,apollo)](https://skillicons.dev)
+
+### Cloud & CI /CD Skills
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,github,githubactions,gitlab,aws,azure)](https://skillicons.dev)
+
+### Mobile Skills 
+[![My Skills](https://skillicons.dev/icons?i=kotlin,react,swift,androidstudio)](https://skillicons.dev)
 
 ### Social Links
 [![Github Badge](https://img.shields.io/badge/-deyvisonborges-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rebeccamanzi)](https://github.com/deyvisonborges)
