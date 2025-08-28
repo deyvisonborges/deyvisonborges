@@ -10,6 +10,10 @@ I have a very flexible profile, but currently, I have focused my time on the fol
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,javascript,typescript,tailwind,css,less,sass,redux,vite,vitest,webpack,npm,yarn,figma)](https://skillicons.dev)
 
 ### Backend Skills 
+- Typescript, Java, Python
+- Node.js, Nest.js, Express, Spring Ecossystem
+- Prisma, TypeORM, Drizzle, Sequelize, Knex, JPA Repository, SQLAlchemy
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,prisma,java,spring,hibernate,dotnet,cs,gradle,maven,postgres,mysql,rabbitmq,kafka,graphql,apollo)](https://skillicons.dev)
 
 ### Cloud & CI /CD Skills
